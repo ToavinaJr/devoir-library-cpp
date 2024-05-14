@@ -1,4 +1,5 @@
 #include <iostream>
+
 #include "../header/Paral.hpp"
 
 namespace Geometry
