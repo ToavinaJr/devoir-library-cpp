@@ -4,10 +4,7 @@
 ```bash
     g++ -c ./GeometryDir/source/*
 ```
-# Listing all files
-```bash
-    ls 
-```
+
 # CREATING THE STATIC LIBRARY
 ```bash
     ar -rv libgeometry.a *.o
